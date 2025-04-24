@@ -27,3 +27,15 @@
 - 3.0 Security Architecture 18%
 - 4.0 Security Operations 28%
 - 5.0 Security Program Management and Operations 20%
+
+<h2>Actions and Observations</h2>
+
+<b> Week 1: April 21-27</b>
+<p> Day 1: April 22</p>
+
+- [x] Develop a personalized study plan.
+
+<p>...
+</p>
+<br />
+
