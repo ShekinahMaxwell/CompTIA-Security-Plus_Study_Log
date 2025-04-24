@@ -26,4 +26,4 @@
 - 2.0 Threats, Vulnerabilites, and Mitigations 22%
 - 3.0 Security Architecture 18%
 - 4.0 Security Operations 28%
-- 5.0 Secuirty Program Management and Operations 20%
+- 5.0 Security Program Management and Operations 20%
