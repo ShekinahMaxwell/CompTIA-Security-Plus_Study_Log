@@ -12,14 +12,15 @@
 - Daily checklist
 - Weekly summary of topics studied
 - Tools/resources used
-- Weekly study goal 6-8 hours
+- Weekly study goal 6-8 hours (Aim to watch 2-3 videos/day and Read 1-2 chapters/week)
 - Supplemental Projects
 
-<h2>Environments and Technologies Used</h2>
+<h2>Tools and Technologies Used</h2>
 
 - CompTIA Security+ Get Certified Get Ahead SY0-601 Study Guide by Darril Gibson (I know it's last year's version, I'm using it temporarily)
-- Professor Messer.com "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/"
+- [Professor Messer's CompTIA SY0-701 Security+ Training Course](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)
 - CompTIA Security+ Certification Exam Objectives.pdf SY0-701
+- Make Flashcards for vocab after each lesson
 
 <h2>Domains</h2>
 
@@ -34,27 +35,29 @@
 <b> Week 1: April 21 - 27 General Security Concepts </b>
 <p> Day 1: April 22 Topic: Get Organized </p>
 
-- [x] Developed a personalized study plan.
+- [x] Developed a personalized study plan
 - [x] Created Github Repository to track progress
-- [ ] Watched videos 
-- [ ] Read 1/2
-- [ ] wrote notes
+- [x] Watched Messer's Videos 0.1 Introduction and 1.0 Security Controls
+- [x] Read pages 8-12 on Security Controls from text
+- [x] Hand-written note summary
+- [x] 2 hours of study
 
 <p> Day 2: April 24 Topic: CIA; Security controls; Authentication methods </p>
 
 - [x] Revised personalized study plan on Github.
 - [ ] Ordered the latest version of study guide
 - [ ] 1 hour of study
+- [ ] 
 
 <p> Day 3: April 25 </p>
 
 - [ ] 2 hours of study
-- [ ] 
+- [ ] Flashcards
 
 <p> Day 4: April 26 </p>
 
 - [ ] 3 hours of study
-- [ ] 
+- [ ] Reviewed Flashcards
 
 <b> Week 2: April 28 - May 4 General Security Concepts (Continued) </b>
 <p> Topics:  </p>
@@ -66,9 +69,15 @@
 
 <p> Day 6: April 28 </p>
 
+- [ ] 3 hours of study
+- [ ]
+
+<p> Day 7: April 29 </p>
+
 - [ ] 1 hour of study
 - [ ]
 
+  
 <b> Week 3: May 5 - May 11 Threats & Vulnerabilites (Malware, Social Eng.) </b>
 <p> Topics:  </p>
 
