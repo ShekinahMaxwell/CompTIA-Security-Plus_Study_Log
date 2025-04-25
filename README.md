@@ -12,7 +12,7 @@
 - Daily checklist
 - Weekly summary of topics studied
 - Tools/resources used
-- Weekly study goal 6-8 hours (Aim to watch 2-3 videos/day and Read 1-2 chapters/week)
+- Weekly study goal 6-8 hours (Aim to watch 2-3 videos/day and Read 1-2 corresponding chapters/week)
 - Supplemental Projects
 
 <h2>Tools and Technologies Used</h2>
@@ -20,7 +20,7 @@
 - CompTIA Security+ Get Certified Get Ahead SY0-601 Study Guide by Darril Gibson (I know it's last year's version, I'm using it temporarily)
 - [Professor Messer's CompTIA SY0-701 Security+ Training Course](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)
 - CompTIA Security+ Certification Exam Objectives.pdf SY0-701
-- Make Flashcards for vocab after each lesson
+- Make Flashcards for key vocab
 
 <h2>Domains</h2>
 
