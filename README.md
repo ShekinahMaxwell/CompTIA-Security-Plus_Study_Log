@@ -1,8 +1,3 @@
-
-<p align="center">
-<!-- <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/> -->
-</p>
-
 <h1>CompTIA Security+ (SY0-701) Study Log</h1>
 <p> Study journal and progress towards the CompTIA Security+ (SY0-701) Certification </p>
 
@@ -45,7 +40,7 @@
 <p> Day 2: April 24 Topic: CIA; Security controls; Authentication methods </p>
 
 - [x] Revised personalized study plan on Github.
-- [ ] Ordered the latest version of study guide
+- [x] Ordered the latest version of study guide
 - [ ] 1 hour of study
 - [ ] 
 
