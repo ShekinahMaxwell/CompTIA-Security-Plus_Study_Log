@@ -40,12 +40,12 @@
 <p> Day 2: April 24 Topic: CIA; Security controls; Authentication methods </p>
 
 - [x] Revised personalized study plan on Github.
-- [x] Ordered the latest version of study guide
-- [ ] 1 hour of study
-- [ ] 
+- [x] Ordered the latest version of study guide GCGA SY0-701
+- [x] 1 hour of study 
 
 <p> Day 3: April 25 </p>
 
+- [ ] Watched Messer's Videos 1.2 The CIA Triad and 1.2 Non-repudiation
 - [ ] 2 hours of study
 - [ ] Flashcards
 
