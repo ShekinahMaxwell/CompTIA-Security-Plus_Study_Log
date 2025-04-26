@@ -45,14 +45,13 @@
 
 <p> Day 3: April 25 </p>
 
-- [ ] Watched Messer's Videos 1.2 The CIA Triad and 1.2 Non-repudiation
+- [x] Watched Messer's Videos 1.2 The CIA Triad and 1.2 Non-repudiation
 - [ ] 2 hours of study
-- [ ] Flashcards
 
 <p> Day 4: April 26 </p>
 
-- [ ] 3 hours of study
-- [ ] Reviewed Flashcards
+- [ ] 3 hours of study: 1hr- revised notes on Security Controls, read text on Security Controls
+- [ ] Made Flashcards on Security Controls
 
 <b> Week 2: April 28 - May 4 General Security Concepts (Continued) </b>
 <p> Topics:  </p>
