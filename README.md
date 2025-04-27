@@ -50,7 +50,7 @@
 
 <p> Day 4: April 26 </p>
 
-- [ ] 3 hours of study: 1hr- revised notes on Security Controls, read text on Security Controls
+- [ ] 3 hours of study: 1hr- revised notes on Security Controls, read text on 1.1 Objective Security Controls
 - [ ] Made Flashcards on Security Controls
 
 <b> Week 2: April 28 - May 4 General Security Concepts (Continued) </b>
